@@ -11,7 +11,7 @@ La prueba busca alcanzar los siguientes objetivos especificos:
 - El archivo deberá estar almacenado con un enconding de UTF-8
 
 ## Pasos
-La prueba 1 fue desarrollada siguiendo los pasos a continuación:
+La prueba fue desarrollada siguiendo los pasos a continuación:
 
 1. Se codifico un script que pueda simplificar todo el proceso en una sola funcion [fix_and_convert_csv_to_psv.py](fix_and_convert_csv_to_psv.py) (Pasos del proceso detallados en el script)
 2. Se realizo un test para verificar que el script cumpla con los objetivos especificos leyendo el psv en el formato correspondiente tanto en psv como en csv [test_fix_and_convert_csv_to_psv.ipynb](test_fix_and_convert_csv_to_psv.ipynb)
